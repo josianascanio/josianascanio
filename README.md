@@ -7,7 +7,8 @@
 Building mobile apps, ERP solutions, POS systems, AI-powered workflows, automation tools and business platforms.
 
 [![GitHub](https://img.shields.io/badge/GitHub-josianascanio-181717?style=for-the-badge&logo=github)](https://github.com/josianascanio)
-![Profile Views](https://visitcount.itsvg.in/api?id=josianascanio&icon=0&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=josianascanio&style=for-the-badge&color=blue)
+
 
 </div>
 
@@ -159,11 +160,11 @@ Design               Figma, UI workflows, business interfaces
 
 <div align="center">
 
-![Josian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josianascanio&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josianascanio&theme=react-dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josianascanio&theme=algolia&hide_border=false)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=josianascanio&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josianascanio&theme=algolia&hide_border=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=josianascanio&theme=algolia&hide_border=false)
 
 </div>
 
